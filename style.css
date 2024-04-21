@@ -1,0 +1,17 @@
+body{
+    height: auto;
+    width: auto;
+    background-image: url("https://png.pngtree.com/png-vector/20220604/ourlarge/pngtree-eid-ul-adha-mubarak-png-image-mubarakh-2022-bakra-goat-top-png-image_4911604.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.fl{
+    margin-top: 50px;
+    display: flex;
+    justify-content: center;
+    font-size: 30px;
+    font-weight: bolder;
+    gap: 10px;
+    color: blue;
+}
